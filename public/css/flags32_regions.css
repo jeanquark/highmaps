@@ -1,0 +1,75 @@
+.f32r .flag{display:inline-block;height:32px;width:32px;vertical-align:text-top;line-height:32px;background:url(flags32_regions.png) no-repeat;}
+/* Germany */
+.f32r .de-bw{background-position:0 -32px;}
+.f32r .de-by{background-position:0 -64px;}
+.f32r .de-be{background-position:0 -96px;}
+.f32r .de-bb{background-position:0 -128px;}
+.f32r .de-hb{background-position:0 -160px;}
+.f32r .de-hh{background-position:0 -192px;}
+.f32r .de-he{background-position:0 -224px;}
+.f32r .de-mv{background-position:0 -256px;}
+.f32r .de-ni{background-position:0 -288px;}
+.f32r .de-nw{background-position:0 -320px;}
+.f32r .de-rp{background-position:0 -352px;}
+.f32r .de-sl{background-position:0 -384px;}
+.f32r .de-st{background-position:0 -416px;}
+.f32r .de-sh{background-position:0 -448px;}
+.f32r .de-th{background-position:0 -480px;}
+.f32r .de-sn{background-position:0 -512px;}
+
+/* France */
+.f32r .fr-a{background-position:0 -544px;} /* Alsace */
+.f32r .fr-b{background-position:0 -576px;}
+.f32r .fr-c{background-position:0 -608px;}
+.f32r .fr-d{background-position:0 -640px;}
+.f32r .fr-e{background-position:0 -672px;} /* Bretagne */
+.f32r .fr-f{background-position:0 -704px;}
+.f32r .fr-g{background-position:0 -736px;}
+.f32r .fr-h{background-position:0 -768px;} /* Corse */
+.f32r .fr-i{background-position:0 -800px;}
+.f32r .fr-j{background-position:0 -832px;} /* Ile r France */
+.f32r .fr-k{background-position:0 -864px;}
+.f32r .fr-l{background-position:0 -896px;} /* Limousin */
+.f32r .fr-m{background-position:0 -928px;} /* Lorraine */
+.f32r .fr-n{background-position:0 -960px;}
+.f32r .fr-o{background-position:0 -992px;} /* Nord-Pas-r-Calais */
+.f32r .fr-p{background-position:0 -1024px;} /* Haute-Normandie and Basse-Normandie have the same flag */
+.f32r .fr-q{background-position:0 -1024px;}
+.f32r .fr-r{background-position:0 -1056px;}
+.f32r .fr-s{background-position:0 -1088px;}
+.f32r .fr-t{background-position:0 -1120px;}
+.f32r .fr-u{background-position:0 -1152px;}
+.f32r .fr-v{background-position:0 -1184px;} /* Rhône-Alpes */
+.f32r .fr-gp{background-position:0 -1216px;}
+.f32r .fr-gf{background-position:0 -1248px;}
+.f32r .fr-mq{background-position:0 -1280px;}
+.f32r .fr-yt{background-position:0 -1312px;}
+.f32r .fr-re{background-position:0 -1344px;}
+
+/* Switzerland */
+.f32r .ch-ai{background-position:0 -1376px;}
+.f32r .ch-ar{background-position:0 -1408px;}
+.f32r .ch-ag{background-position:0 -1440px;}
+.f32r .ch-3306{background-position:0 -1472px;} /* Basel-Landschaft */
+.f32r .ch-bs{background-position:0 -1504px;}
+.f32r .ch-be{background-position:0 -1536px;}
+.f32r .ch-fr{background-position:0 -1568px;}
+.f32r .ch-ge{background-position:0 -1600px;}
+.f32r .ch-gl{background-position:0 -1632px;}
+.f32r .ch-gr{background-position:0 -1664px;}
+.f32r .ch-ju{background-position:0 -1696px;}
+.f32r .ch-lu{background-position:0 -1728px;}
+.f32r .ch-ne{background-position:0 -1760px;}
+.f32r .ch-7{background-position:0 -1792px;} /* Nidwalrn */
+.f32r .ch-nw{background-position:0 -1824px;}
+.f32r .ch-sg{background-position:0 -1856px;}
+.f32r .ch-sh{background-position:0 -1888px;}
+.f32r .ch-sz{background-position:0 -1920px;}
+.f32r .ch-so{background-position:0 -1952px;}
+.f32r .ch-ti{background-position:0 -1984px;}
+.f32r .ch-tg{background-position:0 -2016px;}
+.f32r .ch-ur{background-position:0 -2048px;}
+.f32r .ch-vs{background-position:0 -2080px;}
+.f32r .ch-vd{background-position:0 -2112px;}
+.f32r .ch-zg{background-position:0 -2144px;}
+.f32r .ch-zh{background-position:0 -2176px;}
