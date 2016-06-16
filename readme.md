@@ -37,7 +37,7 @@ Nice. You should be good to go. Open your web browser and go to the login page o
 
 ## Features
 
-1. Drilldown map with country/regional flags. Please note that I included country-specific data for France, Germany and Switzerland only.
+1. Drilldown map with country/regional flags. Please note that I included regional data for France, Germany and Switzerland only.
 
 ## Screenshots
 ![homepage](https://github.com/jeanquark/highmaps/raw/master/public/homepage.png "Homepage")
