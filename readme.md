@@ -1,6 +1,6 @@
 # Display 2 layers of geodata with Highmaps
 
-Use [Highmaps](http://www.highcharts.com/products/highmaps) to display a map of population densities in Europe by country/state with flags in the tooltip. This repo contains the final project built on Laravel 5.2, all steps are explained in [this](http://www.jmkleger.com/display-2-layers-of-geodata-with-highmaps) blog post.
+Use [Highmaps](http://www.highcharts.com/products/highmaps) to display a map of population densities in Europe by country/state with flags in the tooltip. This repo contains the final project built on top of Laravel 5.2, and all steps are explained in [this](http://www.jmkleger.com/display-2-layers-of-geodata-with-highmaps) blog post.
 
 ## Installation
 
@@ -42,7 +42,4 @@ Nice. You should be good to go. Open your web browser and go to the login page o
 ## Screenshots
 ![homepage](https://github.com/jeanquark/highmaps/raw/master/public/homepage.png "Homepage")
 
-![login](https://github.com/jeanquark/highmaps/raw/master/public/homepage1.png "Login")
-
-### License
-Please refer to [Sentinel 2 The BSD 3-Clause License](https://github.com/cartalyst/sentinel/blob/2.0/LICENSE).
+![login](https://github.com/jeanquark/highmaps/raw/master/public/homepage2.png "Login")
