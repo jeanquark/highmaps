@@ -11,9 +11,21 @@ First clone the repo
 git clone https://github.com/jeanquark/highmaps.git
 ```
 
-Install all dependencies
+cd to the newly created folder and install all dependencies
 ```
 composer install
+```
+
+Create a database that will hold countries and regional tables (you can do so with phpmyadmin).
+Open the .env.example file, edit it to match your database name, username and password and save it as .env file. Then build tables with command
+
+```
+php artisan migrate
+```
+
+Now fill in the tables
+```
+php artisan db:seed
 ```
 
 Generate application key 
@@ -21,23 +33,11 @@ Generate application key
 php artisan key:generate
 ```
 
-Create a database that will hold countries and regional tables. You can do so with phpmyadmin.
-Open the .env.example file, edit it to match your database name, username and password and save it as .env file. Then build tables with command
-
-```
-php artisan migrate
-```
-
-Now fill the tables
-```
-php artisan db:seed
-```
-
 Nice. You should be good to go. Open your web browser and go to the login page of the application project (if you followed above-mentioned directives with xampp, path is: http://localhost/highmaps/public).
 
 ## Features
 
-1. Drilldown map with country/regional flags.
+1. Drilldown map with country/regional flags. Please note that I only included regional data for France, Germany and Switzerland.
 
 ## Screenshots
 ![homepage](https://github.com/jeanquark/highmaps/raw/master/public/homepage.png "Homepage")
