@@ -1,6 +1,6 @@
 # Display 2 layers of geodata with Highmaps
 
-Use [Highmaps](http://www.highcharts.com/products/highmaps) to display a map of population densities in Europe by country/state with flags in the tooltip. This repo contains the final project built on top of Laravel 5.2, and all steps are explained in [this](http://www.jmkleger.com/display-2-layers-of-geodata-with-highmaps) blog post.
+Use [Highmaps](http://www.highcharts.com/products/highmaps) to display a map of population densities in Europe by country/state with flags in the tooltip. View demo [here](http://www.jmkleger.com/highmaps). This repo contains the final project built on top of Laravel 5.2, and all steps are explained in [this](http://www.jmkleger.com/post/display-2-layers-of-geodata-with-highmaps) blog post.
 
 ## Installation
 
